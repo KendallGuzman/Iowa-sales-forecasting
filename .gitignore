@@ -1,0 +1,12 @@
+# Local datasets
+data/
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Local settings and secrets
+.idea/
+.env
+.DS_Store
